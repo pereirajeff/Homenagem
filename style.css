@@ -42,6 +42,10 @@ body{
 #fundo{
     background-image: url(bg3.gif);
 }
+audio{
+    
+    padding: 10px;
+}
 
 
 p{
@@ -49,8 +53,9 @@ p{
     font-family: "Caveat", cursive;
     font-size: 1.2em;
     margin: 10px;
-    text-indent: 0px;
+    text-indent: 15px;
     line-height: 30px;
+    text-align: justify;
 
 }
 
@@ -64,5 +69,40 @@ main{
     width: 80vw;
     margin: auto;
     padding: 20px;
-    background-color: rgba(0, 0, 0, 0.753);
+    background-color: rgba(0, 0, 0, 0.884);
+    
+}
+
+.foto2{
+    margin: 50px 0px 50px 0px;
+    width: 80vw;
+    height: 500px;
+    background-size: cover;
+    background-attachment: fixed;
+    box-shadow: inset 0px 2px 9px 3px rgba(2, 110, 153, 0.377);
+    
+    
+}
+
+.foto2 > #bg > p {
+  
+   border-radius: 10px;
+   font-size: 1.5em;
+   line-height: 50px;
+    text-indent: 0;
+    padding: 10px;
+    width: 550px;
+   
+    background-color: rgba(0, 0, 0, 0.473);
+    
+}
+
+#bg{
+    
+    
+}
+
+#img2{
+    background-image: url(fundo2.jpg);
+    background-position: center right;
 }
