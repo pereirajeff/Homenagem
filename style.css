@@ -69,17 +69,17 @@ main{
     width: 80vw;
     margin: auto;
     padding: 20px;
-    background-color: rgba(0, 0, 0, 0.884);
+    background-color: rgba(0, 0, 0, 0.925);
     
 }
 
 .foto2{
     margin: 50px 0px 50px 0px;
     width: 80vw;
-    height: 500px;
+    height: 250px;
     background-size: cover;
     background-attachment: fixed;
-    box-shadow: inset 0px 2px 9px 3px rgba(2, 110, 153, 0.377);
+    box-shadow: inset 0px 2px 9px 3px rgba(121, 121, 121, 0.452);
     
     
 }
@@ -88,7 +88,7 @@ main{
   
    border-radius: 10px;
    font-size: 1.3em;
-   line-height: 50px;
+   line-height: 60px;
     text-indent: 0;
     padding: 10px;
     width: 70vw;
@@ -99,6 +99,6 @@ main{
 
 
 #img2{
-    background-image: url(fundo2.jpg);
+    background-image: url(background001.jpg);
     background-position: center right;
 }
