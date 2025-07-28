@@ -28,7 +28,7 @@ a{
     position: absolute;
     top:50%;
     left: 50%;
-    transform: translate(-50%, 1400%);
+    transform: translate(-60%, 1000%);
     font-size: 20px;
     text-shadow: 2px 2px 2px black;
 
@@ -76,7 +76,7 @@ main{
 .foto2{
     margin: 50px 0px 50px 0px;
     width: 80vw;
-    height: 250px;
+    height: 450px;
     background-size: cover;
     background-attachment: fixed;
     box-shadow: inset 0px 2px 9px 3px rgba(121, 121, 121, 0.452);
